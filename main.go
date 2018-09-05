@@ -7,6 +7,11 @@ import (
 	"github.com/urfave/cli"
 )
 
+/*
+ * Resources:
+ * https://en.bitcoin.it/wiki/List_of_address_prefixes
+**/
+
 func main() {
 
 	// set up cli
